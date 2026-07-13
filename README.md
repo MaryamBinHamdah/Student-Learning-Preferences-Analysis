@@ -68,7 +68,7 @@ The final phase involved interpreting the statistical results and translating th
 This project was a successful collaboration between:
 
 *   Hessa Khalfan ([@Heskal](https://github.com/Heskal ))
-*   Maryam Ali ([@MaryamBinHamdah](https://github.com/MaryamBinHamdah ))
+*   *Maryam Ali* ([@MaryamBinHamdah](https://github.com/MaryamBinHamdah ))
 *   Nourah Abdulla Alghfeli ([@NourahAlghfeli](https://github.com/NourahAlghfeli ))
 
 ---
